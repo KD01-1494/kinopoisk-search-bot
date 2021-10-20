@@ -1,0 +1,1 @@
+# kinopoisk-search-bot
